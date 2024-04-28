@@ -1,0 +1,2 @@
+class SpiceShopException(Exception):
+    pass
